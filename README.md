@@ -2,10 +2,16 @@
 ## Estudante de Gestão da Tecnologia da Informação
 Olá! Seja bem-vindo ao meu GitHub.
 ## 🚀 Linguagens e Tecnologias
-- Python
-- SQL
-- Git
-- Linux
+- 💻 Visual Studio Code (VS Code)
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML5
+- 🎨 CSS3
+- 🗄️ SQL
+- 🐬 MySQL
+- 🔀 Git
+- 🐙 GitHub
+- 🐧 Linux
  <p>
 
 <img src="https://skillicons.dev/icons?i=python"/>
@@ -24,6 +30,6 @@ Olá! Seja bem-vindo ao meu GitHub.
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
-</p> 
+<p>
 
  **GitHub**
